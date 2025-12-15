@@ -1,16 +1,43 @@
-# React + Vite
+# Multi-Purpose AI Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multi-purpose AI assistant built using React that integrates the Gemini API to provide intelligent features such as text generation, sentiment analysis, and image description.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a frontend-based AI assistant that allows users to interact with AI in multiple ways. Users can generate text-based responses, analyze the sentiment of input text, and upload images to receive detailed AI-generated descriptions. The application focuses on a clean user interface, smooth interaction, and practical AI integration.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Text generation using Gemini API
+- Sentiment analysis of user-provided text
+- Image upload with detailed image description
+- Responsive and user-friendly interface
+- Real-time AI responses
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Frontend: React.js
+- Styling: CSS
+- API: Gemini API
+- Language: JavaScript
+
+## How It Works
+
+- Users can enter text prompts to generate AI-based responses.
+- Sentiment analysis determines whether the input text is positive, negative, or neutral.
+- Users can upload an image, and the AI provides a detailed description of the image content using the Gemini API.
+
+## Project Focus
+
+This project was built to practice frontend development with React, API integration, and handling different types of user input, including text and images. Special attention was given to UI clarity, responsiveness, and smooth user interaction.
+
+## Live Demo
+
+Live: https://ai-assistant-murex-psi.vercel.app/
+
+## Future Improvements
+
+- User authentication
+- Chat history storage
+- UI enhancements
+- Support for more AI features
