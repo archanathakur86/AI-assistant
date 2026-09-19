@@ -18,7 +18,7 @@ This project is a frontend-based AI assistant that allows users to interact with
 
 - Frontend: React.js
 - Styling: CSS
-- API: Gemini API
+- API: Groq
 - Language: JavaScript
 
 ## How It Works
@@ -33,7 +33,7 @@ This project was built to practice frontend development with React, API integrat
 
 ## Live Demo
 
-Live: https://ai-assistant-murex-psi.vercel.app/
+Live: https://ai-assistant-murex-psi.vercel.app
 
 ## Future Improvements
 
