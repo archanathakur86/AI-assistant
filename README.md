@@ -1,6 +1,6 @@
 # Multi-Purpose AI Assistant
 
-A multi-purpose AI assistant built using React that integrates the Gemini API to provide intelligent features such as text generation, sentiment analysis, and image description.
+A multi-purpose AI assistant built using React that integrates the Groq API to provide intelligent features such as text generation, sentiment analysis, and image description.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project is a frontend-based AI assistant that allows users to interact with
 
 ## Features
 
-- Text generation using Gemini API
+- Text generation using Groq API
 - Sentiment analysis of user-provided text
 - Image upload with detailed image description
 - Responsive and user-friendly interface
@@ -25,7 +25,7 @@ This project is a frontend-based AI assistant that allows users to interact with
 
 - Users can enter text prompts to generate AI-based responses.
 - Sentiment analysis determines whether the input text is positive, negative, or neutral.
-- Users can upload an image, and the AI provides a detailed description of the image content using the Gemini API.
+- Users can upload an image, and the AI provides a detailed description of the image content using the Groq API.
 
 ## Project Focus
 
